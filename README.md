@@ -1,6 +1,11 @@
 ### Hi there 👋
-## My Name is ZHARI Younes
-
+![aesthetic-discord (1)](https://github.com/youneszh1/youneszh1/assets/55602731/726d60b7-a3c5-4182-a370-bdea5b7baa59)
+### Skills 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,javascript,html,css,php,python" />
+  </a>
+</p>
 <!--
 **youneszh1/youneszh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
