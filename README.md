@@ -6,6 +6,17 @@
 
 ###
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/younes-zhari-29b749285/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
@@ -53,6 +64,8 @@
 <h2 align="left">🛠️ Other Tools 🛠️</h2>
 
 ###
-
+<div align="center">
+  <img align="middle" src="https://skillicons.dev/icons?i=mysql,mongodb,nodejs,vite,git,github,gitlab," />
+</div>
 
 ###
