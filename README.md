@@ -1,22 +1,34 @@
-### Hi there 👋
-![aesthetic-discord (1)](https://github.com/youneszh1/youneszh1/assets/55602731/726d60b7-a3c5-4182-a370-bdea5b7baa59)
-<p align="center">
-  <h1>Skills</h1>  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,javascript,html,css,php,python" />
-  </a>
-</p>
-<!--
-**youneszh1/youneszh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Hey 👋 What's up?</h1>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">I'm <b>Younes</b>, a passionate web developer hailing from Morocco.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨I've been having fun with coding since 2021. Right now, I'm diving into [Current Learning], and I have some exciting goals ahead. Oh, and here's a fun fact about me: [Share a quirky fact about yourself].</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left ">
+  <table border=0>
+    <tr>
+      <td><img align="middle" src="https://skillicons.dev/icons?i=javascript" /> </td>
+      <td> <p align="middle">The superhero of web adventures!</p> </td>
+    </tr>
+  <table>
+    <tr>
+    </tr>
+  </table>
+</div>
+
+###
