@@ -66,7 +66,14 @@
 
 ###
 <div align="center">
-  <img align="middle" src="https://skillicons.dev/icons?i=mysql,mongodb,nodejs,vite,git,github,gitlab,notion" />
+  <img align="middle" src="https://skillicons.dev/icons?i=mysql,mongodb,nodejs,vite,git,github,gitlab,vscode" />
 </div>
 
 ###
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=-+Skills+speak+louder+than+words+-&color=007ACC" alt="Typing SVG">
+  </a>
+</p>
+
